@@ -1,0 +1,1 @@
+import{b as e}from"./index-8929c8ab.js";const o=(n=6)=>e("/home/brand","get",{limit:n}),r=()=>e("/home/banner","get"),s=()=>e("home/new","get"),a=()=>e("home/hot","get"),d=()=>e("home/goods","get"),c=()=>e("home/special","get");export{r as a,s as b,a as c,d,c as e,o as f};
